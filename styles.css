@@ -79,3 +79,16 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.TTT {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+.TTT-button {
+  border-style: solid;
+  border-color: #672f2f;
+  border-width: 6px;
+  border-radius: 10%;
+}
